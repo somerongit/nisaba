@@ -81,3 +81,15 @@ item {
   uname: ["LETTER AU"] raw: "ঔ"
   to_uname: ["LATIN SMALL LETTER A", "LATIN SMALL LETTER U"] to_raw: "au"
 }
+
+# Kokborok diphthongs
+# Ref: Unicode Standard 13.0 chapter 12.2 table 12-12
+item {
+  uname: ["LETTER A", "AU LENGTH MARK"] raw: "অৗ"
+  to_uname: ["LATIN SMALL LETTER A", "COMBINING DOUBLE MACRON BELOW", "LATIN SMALL LETTER W"] to_raw: "a͟w"
+}
+
+item {
+  uname: ["LETTER U", "VOWEL SIGN AA"] raw: "উা"
+  to_uname: ["LATIN SMALL LETTER U", "COMBINING DOUBLE MACRON BELOW", "LATIN SMALL LETTER A"] to_raw: "u͟a"
+}

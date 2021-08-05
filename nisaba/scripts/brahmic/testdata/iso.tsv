@@ -97,6 +97,9 @@ FROM_BRAHMIC	दर्‍या	dar+yā
 FROM_MLYM	കെയ്ൻ	keynⸯ
 FROM_BENG	বেন্ডনর্ৎস	bēnḍanartⸯsa
 
+# Santali sequence with Candrabindu and Visarga
+FROM_BENG	আঁঃ	ām̐ḥ
+
 # ------------------------------------------------------------------------------
 # Meetei Mayek (Manipuri):
 # ------------------------------------------------------------------------------

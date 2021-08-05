@@ -41,3 +41,10 @@ item {
   uname: ["SIGN AVAGRAHA"] raw: "ঽ"
   to_uname: ["RIGHT SINGLE QUOTATION MARK"] to_raw: "’"
 }
+
+# Santali example from:
+# http://esantaldisom.blogspot.com/2018/11/Santal-tir-dhanuk.html
+item {
+  uname: ["SIGN CANDRABINDU", "SIGN VISARGA"] raw: "ঁঃ"
+  to_uname: ["LATIN SMALL LETTER M", "COMBINING CANDRABINDU", "LATIN SMALL LETTER H WITH DOT BELOW"] to_raw: "m̐ḥ"
+}
